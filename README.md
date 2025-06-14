@@ -1,7 +1,8 @@
 # 💫 About Me:
-**My name is Vishal Agrawal, and I am passionate about web development, especially in front-end design, responsive interfaces, and modern web technologies.
-I am currently pursuing a Bachelor of Computer Applications (BCA) at GLA University, Mathura.
-I enjoy building clean, user-friendly websites and am constantly working to enhance my skills in UI/UX and full-stack development.**
+**My name is Vishal Agrawal, and I’m passionate about web development, with a focus on building responsive and efficient websites.
+I’m currently pursuing a Bachelor of Computer Applications (BCA) at GLA University, Mathura.
+I work with modern web technologies and constantly strive to improve my skills in front-end and back-end development.
+My future goal is to become an AI-powered full-stack web developer, combining the power of artificial intelligence with web technologies to build smart, scalable, and impactful applications.**
 
 Email Me 👉 ✉️ **vishalagrawal7037@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -26,6 +27,8 @@ Email Me 👉 ✉️ **vishalagrawal7037@gmail.com** For Collaboration/Project o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishalag74&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
